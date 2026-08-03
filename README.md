@@ -1,66 +1,28 @@
-# Sam Etemad
+# 👋 Hi, I'm Sam Etemad
 
-IT Systems & Security Specialist based in Toronto, Canada.
+IT Systems & Security Specialist based in Toronto 🇨🇦
 
-## About Me
+---
 
-- Microsoft 365 Administration
-- Azure Cloud Infrastructure
-- Fortinet Security Solutions
-- Network Administration
-- PowerShell Automation
-- IT Operations & Support
+## 🚀 Featured Project
 
-## Current Focus
+### PR Countdown Dashboard
+Python-based dashboard to track PR progress, KPIs, and deadlines.
 
-- Azure Administrator (AZ-104)
-- Security+
-- Fortinet NSE
-- Cloud Security
-- Infrastructure Modernization
+👉 https://github.com/sametemad/pr-countdown-engine
 
-## Technical Skills
+---
 
-### Microsoft
-- Microsoft 365
-- Entra ID
-- Exchange Online
-- SharePoint Online
-- Teams
-- Intune
+## 🛠 Skills
 
-### Security
-- FortiGate
-- MFA
-- Conditional Access
-- Security Hardening
-- Endpoint Protection
+- Microsoft 365 / Azure / Entra ID  
+- Fortinet (FortiGate 60F)  
+- Network Design (VLANs, VPN, Routing)  
+- Python Automation  
 
-### Infrastructure
-- Windows Server
-- Active Directory
-- DNS
-- DHCP
-- Networking
-- VLANs
+---
 
-### Automation
-- PowerShell
-- Power Platform
-- Power Automate
+## 📫 Contact
 
-## Featured Repositories
-
-- M365-Security-Baseline
-- FortiGate-Labs
-- Azure-Labs
-- PowerShell-Scripts
-- IT-Documentation
-
-## Website
-
-https://sametemad.com
-
-## Location
-
-Toronto, Ontario, Canada
+- LinkedIn: (add later)
+- Website: sametemad.com
