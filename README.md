@@ -6,10 +6,10 @@ IT Systems & Security Specialist based in Toronto 🇨🇦
 
 ## 🚀 Featured Project
 
-### PR Countdown Dashboard
-Python-based dashboard to track PR progress, KPIs, and deadlines.
+### Smart Card QR System
+Python GUI app for generating a digital identity card with QR code.
 
-👉 https://github.com/sametemad/pr-countdown-engine
+👉 https://github.com/sametemad/smart-card
 
 ---
 
