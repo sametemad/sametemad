@@ -10,7 +10,7 @@ IT Systems & Security Specialist based in Toronto, Canada.
 
 Python GUI application for generating a digital identity card with QR code.
 
-👉 https://github.com/sametemad/smart-card
+👉 [View Project](https://github.com/sametemad/smart-card)
 
 ---
 
@@ -31,9 +31,11 @@ Python GUI application for generating a digital identity card with QR code.
 
 ### CentennialHacks 2026 — Judge
 
+![CentennialHacks 2026](centennialhacks-2026.jpg)
+
 **IEEE Centennial College Student Branch | Sponsored by Major League Hacking (MLH)**  
-Centennial College — Toronto, Canada  
-August 15, 2026
+**Centennial College — Progress Campus, Toronto, Canada**  
+**August 15, 2026**
 
 Selected as a judge for CentennialHacks 2026, evaluating student hackathon projects across technical execution, innovation, functionality, real-world impact, and presentation quality.
 
@@ -41,6 +43,6 @@ Selected as a judge for CentennialHacks 2026, evaluating student hackathon proje
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/sametemad
-- Website: https://sametemad.com
-- GitHub: https://github.com/sametemad
+- [LinkedIn](https://www.linkedin.com/in/sametemad)
+- [Website](https://sametemad.com)
+- [GitHub](https://github.com/sametemad)
