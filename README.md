@@ -31,7 +31,9 @@ Python GUI application for generating a digital identity card with QR code.
 
 ### CentennialHacks 2026 — Judge
 
-![CentennialHacks 2026](centennialhacks-2026.jpg)
+<p align="center">
+  <img src="centennialhacks-2026.jpg" alt="CentennialHacks 2026" width="700">
+</p>
 
 **IEEE Centennial College Student Branch | Sponsored by Major League Hacking (MLH)**  
 **Centennial College — Progress Campus, Toronto, Canada**  
